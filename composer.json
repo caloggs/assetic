@@ -34,7 +34,6 @@
         "twig/twig": "<1.27"
     },
     "require-dev": {
-        "leafo/lessphp": "~0.5",
         "scssphp/scssphp": "~1.0",
         "meenie/javascript-packer": "^1.1",
         "mrclay/minify": "<2.3",
@@ -45,7 +44,8 @@
         "ptachoire/cssembed": "~1.0",
         "symfony/phpunit-bridge": "~2.7|~3.0",
         "twig/twig": "~2.11",
-        "yfix/packager": "dev-master"
+        "yfix/packager": "dev-master",
+        "wikimedia/less.php": "^1.8"
     },
     "suggest": {
         "twig/twig": "Assetic provides the integration with the Twig templating engine",
